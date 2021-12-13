@@ -12,7 +12,7 @@ Binary classification with imbalanced data
 
 ### Data 
 Kaggle에 공유된 ‘Loan Prediction Based on Customer Behavior’활용
-(https://www.kaggle.com/subhamjain/loan-prediction-based-on-customer-behavior
+(https://www.kaggle.com/subhamjain/loan-prediction-based-on-customer-behavior)
 
 ![image](https://user-images.githubusercontent.com/79688191/145768171-31a56ea2-ae16-48f1-a298-6cdd889fd05a.png)
 
