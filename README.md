@@ -1,3 +1,6 @@
+# 불균형 조정 방법을 적용한 ML 
+
+
 # loan-prediction
 Binary classification with imbalanced data
 - 고객의 채무 불이행 가능성 예측
@@ -29,6 +32,9 @@ Kaggle에 공유된 ‘Loan Prediction Based on Customer Behavior’활용
 ### Random Forest Classifier
 
 ![image](https://user-images.githubusercontent.com/79688191/145768413-4a378de3-6271-4109-a3b7-c442e3df593a.png)
+
+
+
 
 
 # fetal-health-classification
